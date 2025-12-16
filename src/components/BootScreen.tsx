@@ -1,3 +1,4 @@
+"use client"
 import bootMessages, { betterBootMessages } from "@/bootMesssages";
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
 interface IProp {
